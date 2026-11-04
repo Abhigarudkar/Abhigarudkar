@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Hi, I'm Abhishek Garudkar
 
 ### Java Backend Developer | Software Engineer | BE IT Student
