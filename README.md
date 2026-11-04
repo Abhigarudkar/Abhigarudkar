@@ -97,13 +97,10 @@ Currently focusing on:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhigarudkar&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigarudkar&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abhigarudkar&theme=github-dark-blue)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhigarudkar&show_icons=true&theme=github_dark" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigarudkar&layout=compact&theme=github_dark" height="180" alt="Top Languages" />
+</p>
 
 ## 🎓 Education
 
