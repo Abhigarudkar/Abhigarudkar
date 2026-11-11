@@ -114,6 +114,25 @@ Currently pursuing Third Year.
 
 ---
 
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <a href="https://github.com/Abhigarudkar">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abhigarudkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+  </a>
+  <a href="https://github.com/Abhigarudkar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigarudkar&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  </a>
+</p>
+
+### 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhigarudkar&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
 ## 🤝 Connect With Me
 
 - 💻 GitHub: [Abhigarudkar](https://github.com/Abhigarudkar)
